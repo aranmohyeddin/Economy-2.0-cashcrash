@@ -23,7 +23,7 @@
  * Global Startup Ecosystem Report 2019
 
 2. Paradigm: ICO
- * We can turn complicated contracts and derivatives into smart contracts.
+ * Derivatives ----> smart contracts.
  * Buy tuicCoin with Ethereum
 
 3. Paradigm: ICO, smart contract
@@ -42,8 +42,8 @@
  * In or out
 
 5. Paradigm: ICO, a business model
- * Reserve some tokens for the team in the genesis block.
- * The creator of BTC has a net worth twice TRUMP, 6 at its peak.
+ * Coin reserve, Genesis block
+ * Satoshi net worth: 7B$
 
 6. Shared economy: The problem
  * Monopoly and market manipulation
@@ -51,7 +51,7 @@
 
 7. Shared economy: The solution
  * Taxi drivers don't care about monopoly
- * Numnumerous micro-transactions
+ * Numerous micro-transactions
 
 8. Shared economy: The market
  * Homestay broking
@@ -64,21 +64,22 @@
 10. Shared economy: Carchain, the process
  * User sends a transaction to three matchmakers
  * Matchmakers offer matchings to drivers with a fee
- * Drivers put their price on each offer
+ * Drivers bid their price for each offer
  * User chooses between final offers
  * Driver pays MSP and matchmaker fees
  * User pays the driver how they wish
 
 11. Smart grid, The problem
  * Prosumerism, production by consumers
- * Price is dictated in Iran
- * Developed countries have Electricity Exchanges and more sophisticated pricing
+ * Dictated price in Iran
+ * Sophisticated pricing in 1st world
+ * Electricity Exchanges
 
 12. Smart grid, The solution, modules
  * Blockchain smart meters.
  * Measure and predict electricity production and usage
  * Generate tokens based on predictions
- * The owner of this token can consume xKW electricity between these timestamps
+ * xKW electricity between these timestamps
 
 13. Smart grid, The solution, process
  * Consumers buy these tokens
@@ -102,14 +103,14 @@
 
 17. Pricing, Every entity an IPO
  * Decentralized IPO for every asset
- * Blockchain Smart grid was also taking advantage of this idea
+ * Blockchain Smart grid
 
 18. Pricing, Prediction market
  * Trading the outcome of events
- * Open market price represents the public perception of probabilities
- * Easy to implement using smart contracts
- * Yes/No tokens for the answer to a question
- * Smart contract divides the money among winners
+ * Price = public perception
+ * Easy smart contracts
+ * Yes/No tokens for a question
+ * Divide money among winners
 
 19. Distributed platforms
  * Storj: A distributed storage platform
